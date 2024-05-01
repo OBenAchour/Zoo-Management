@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Zoo {
     //Attributs
     String name, city;
@@ -70,4 +72,4 @@ public class Zoo {
                 '}';
     }
 }
-}
+
